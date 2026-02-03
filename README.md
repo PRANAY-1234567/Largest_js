@@ -3,7 +3,6 @@
 📌 Description
 
 This program finds the largest number among three given numbers using JavaScript.
-
 It uses the built-in Math.max() function to compare values and return the biggest one.
 
 🧩 Problem Statement
