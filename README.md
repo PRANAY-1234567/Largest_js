@@ -51,9 +51,7 @@ Learning built-in Math functions
 🚀 Possible Improvements
 
 Take user input using prompt()
-
 Find largest among more than 3 numbers
-
 Add validation for non-numeric values
 
 👨‍💻 Author
