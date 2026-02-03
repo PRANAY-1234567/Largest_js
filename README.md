@@ -41,11 +41,8 @@ Console output (console.log)
 🎯 Use Cases
 
 Beginner JavaScript practice
-
 Interview preparation
-
 Number comparison problems
-
 Learning built-in Math functions
 
 🚀 Possible Improvements
