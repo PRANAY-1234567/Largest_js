@@ -54,3 +54,6 @@ Add validation for non-numeric values
 👨‍💻 Author
 
 Pranay Jadhao
+
+<img width="616" height="739" alt="image" src="https://github.com/user-attachments/assets/06f3fa9e-3247-4754-84ee-9ed210ef4954" />
+
