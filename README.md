@@ -42,6 +42,7 @@ Console output (console.log)
 Beginner JavaScript practice
 
 Interview preparation
+
 Number comparison problems
 Learning built-in Math functions
 
